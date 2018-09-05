@@ -1,5 +1,6 @@
 Lista de centros:
-Centro 1
+Centro 11
 Centro 2
 ceeeentro
+CENTRO
 Centro 3
