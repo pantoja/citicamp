@@ -1,1 +1,3 @@
 Lista de centros:
+Centro 1
+Centro 2
