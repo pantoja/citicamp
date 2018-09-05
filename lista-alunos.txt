@@ -1,1 +1,3 @@
 Lista de alunos:
+ALuno 1
+Aluno 2
